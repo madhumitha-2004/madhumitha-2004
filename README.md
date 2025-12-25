@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I’m Madhumitha 👋  <br>I enjoy combining analytical thinking with business understanding to solve real-world problems.<br><br>I work on data analysis, models, and practical projects that turn insights into decisions.  <br>Interested in startups, product thinking, and data-backed decision-making.<br><br>Currently learning and exploring analytics, machine learning, and real-world applications.  <br>Open to collaborations, learning opportunities, and building meaningful projects together.<br><br>🔗 LinkedIn: linkedin.com/in/y-n-madhumitha-chowdary-5174b3263/<br>
+Hi, I’m Madhumitha 👋  <br>I enjoy combining analytical thinking with business understanding to solve real-world problems.<br><br>I work on data analysis, models, and practical projects that turn insights into decisions.  <br>Interested in startups, product thinking, and data-backed decision-making.<br><br>Currently learning and exploring analytics, machine learning, and real-world applications.  <br>Open to collaborations, learning opportunities, and building meaningful projects together.<br>
 
 
 ## 🌐 Socials:
