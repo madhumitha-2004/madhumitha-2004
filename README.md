@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I am Madhumitha
+Hi, I am Madhumitha<br>
 💻 Passionate developer with a strong interest in building real-world applications and solving problems through code.
 📊 Currently exploring Data Science, Machine Learning, and Full Stack Development.
 🚀 Love creating projects that combine analytics with practical impact.
