@@ -1,5 +1,8 @@
 # 💫 About Me:
-Hi, I’m Madhumitha 👋  <br>I enjoy combining analytical thinking with business understanding to solve real-world problems.<br><br>I work on data analysis, models, and practical projects that turn insights into decisions.  <br>Interested in startups, product thinking, and data-backed decision-making.<br><br>Currently learning and exploring analytics, machine learning, and real-world applications.  <br>Open to collaborations, learning opportunities, and building meaningful projects together.<br>
+💻 Passionate developer with a strong interest in building real-world applications and solving problems through code.
+📊 Currently exploring Data Science, Machine Learning, and Full Stack Development.
+🚀 Love creating projects that combine analytics with practical impact.
+<br>
 
 
 ## 🌐 Socials:
